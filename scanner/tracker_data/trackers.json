@@ -1,0 +1,1289 @@
+{
+  "trackers": {
+    "Teemo": [
+      "com.databerries.|com.geolocstation."
+    ],
+    "FidZup": [
+      "com.fidzup."
+    ],
+    "Audience Studio (Krux)": [
+      "com.krux.androidsdk"
+    ],
+    "Ad4Screen": [
+      "com.ad4screen.sdk"
+    ],
+    "Weborama": [
+      "com.weborama."
+    ],
+    "Smart": [
+      "com.smartadserver."
+    ],
+    "JW Player": [
+      "com.longtailvideo.jwplayer."
+    ],
+    "Loggly": [
+      "com.github.tony19.timber.loggly|com.github.tony19.loggly|com.visiware.sync2ad.logger.loggly."
+    ],
+    "OutBrain": [
+      "com.outbrain."
+    ],
+    "AppsFlyer": [
+      "com.appsflyer."
+    ],
+    "Ligatus": [
+      ".LigatusManager|.LigatusViewClient|com.ligatus.android.adframework"
+    ],
+    "Widespace": [
+      "com.widespace."
+    ],
+    "AppNexus": [
+      "com.appnexus.opensdk."
+    ],
+    "Localytics": [
+      "com.localytics.android.|com.localytics.androidx|com.localytics.react."
+    ],
+    "Braze (formerly Appboy)": [
+      "com.appboy"
+    ],
+    "mParticle": [
+      "com.mparticle"
+    ],
+    "S4M": [
+      "com.sam4mobile.|.S4MAnalytic"
+    ],
+    "Sizmek": [
+      ".sizmek."
+    ],
+    "Batch": [
+      "com.batch.android."
+    ],
+    "Sync2Ad": [
+      "com.visiware.sync2ad.dmp."
+    ],
+    "Flurry": [
+      "com.flurry."
+    ],
+    "HockeyApp": [
+      "net.hockeyapp."
+    ],
+    "Google CrashLytics": [
+      "io.fabric.|com.crashlytics.|com.google.firebase.crashlytics|com.google.firebase.crash.|io.invertase.firebase.crashlytics."
+    ],
+    "LeanPlum": [
+      "com.leanplum."
+    ],
+    "Tinder Analytics": [
+      "com.tinder.analytics|com.tinder.ads"
+    ],
+    "Schibsted": [
+      ".schibsted."
+    ],
+    "ATInternet": [
+      "com.atinternet."
+    ],
+    "Tealium": [
+      ".tealium."
+    ],
+    "Nexage": [
+      "com.nexage.android.|org.nexage."
+    ],
+    "Ogury Presage": [
+      "io.presage."
+    ],
+    "Twitter MoPub": [
+      "com.mopub."
+    ],
+    "Add Apt Tr": [
+      "com.intentsoftware.addapptr."
+    ],
+    "Vectaury": [
+      "io.vectaury."
+    ],
+    "Tune": [
+      "com.tune|com.mobileapptracker"
+    ],
+    "Pushwoosh": [
+      "com.pushwoosh"
+    ],
+    "Demdex": [
+      "com.adobe.mobile.Analytics|com.adobe.mobile.Config."
+    ],
+    "AdsWizz": [
+      ".adswizz."
+    ],
+    "ExactTarget": [
+      "com.exacttarget."
+    ],
+    "Omniture": [
+      "com.omniture.|com.adobe.adms.measurement."
+    ],
+    "OpenLocate": [
+      "com.safegraph.|com.openlocate"
+    ],
+    "TagCommander (Commanders Act.)": [
+      "com.tagcommander."
+    ],
+    "Facebook Audience": [
+      "com.facebook.audiencenetwork"
+    ],
+    "Google Analytics": [
+      "com.google.android.apps.analytics.|com.google.android.gms.analytics.|com.google.analytics."
+    ],
+    "Google Firebase Analytics": [
+      "com.google.firebase.analytics.FirebaseAnalytics|com.google.android.gms.measurement.|com.google.firebase.firebase_analytics"
+    ],
+    "Eulerian": [
+      "com.eulerian.android.sdk"
+    ],
+    "Adjust": [
+      "com.adjust.sdk.|com.adjust.android.sdk."
+    ],
+    "ChartBoost": [
+      "com.chartboost.sdk."
+    ],
+    "Backelite": [
+      "com.backelite.android.|com.backelite.bkdroid."
+    ],
+    "Areametrics": [
+      "com.areametrics.areametricssdk|com.areametrics.nosdkandroid"
+    ],
+    "ComScore": [
+      "com.comscore."
+    ],
+    "Cuebiq": [
+      "com.cuebiq.cuebiqsdk.model.Collector|com.cuebiq.cuebiqsdk.receiver.CoverageReceiver"
+    ],
+    "HelpShift": [
+      "com.helpshift"
+    ],
+    "Kontakt": [
+      "com.kontakt.sdk.android."
+    ],
+    "Locuslabs": [
+      "com.locuslabs.sdk"
+    ],
+    "Moat": [
+      "com.moat.analytics.mobile."
+    ],
+    "Segment": [
+      "com.segment.analytics."
+    ],
+    "Mobile Engagement": [
+      "com.ubikod.capptain.|com.microsoft.azure.engagement."
+    ],
+    "Colocator": [
+      "net.crowdconnected.androidcolocator"
+    ],
+    "Facebook Ads": [
+      "com.facebook.ads"
+    ],
+    "Facebook Analytics": [
+      "com.facebook.appevents|com.facebook.marketing.|com.facebook.CampaignTrackingReceiver"
+    ],
+    "Facebook Login": [
+      "com.facebook.login"
+    ],
+    "Facebook Notifications": [
+      "com.facebook.notifications"
+    ],
+    "Facebook Places": [
+      "com.facebook.places"
+    ],
+    "Facebook Share": [
+      "com.facebook.share"
+    ],
+    "AppLovin (MAX and SparkLabs)": [
+      "com.applovin"
+    ],
+    "Glispa Connect (Formerly Avocarrot)": [
+      "com.avocarrot.sdk"
+    ],
+    "NativeX": [
+      "com.nativex"
+    ],
+    "Baidu Maps": [
+      "com.baidu.BaiduMap"
+    ],
+    "WeChat Location": [
+      "com.tencent.map.geolocation|com.tencent.mm.plugin.location.|com.tencent.mm.plugin.location_soso.|com.tencent.mm.plugin.location_google"
+    ],
+    "HyperTrack": [
+      "com.hypertrack|com.hypertracklive.|io.hypertrack"
+    ],
+    "Uber Analytics": [
+      "com.ubercab.analytics.|com.ubercab.library.metrics.analytics.|com.ubercab.client.core.analytics."
+    ],
+    "Lisnr": [
+      "com.lisnr."
+    ],
+    "SilverPush": [
+      "com.silverpush."
+    ],
+    "Shopkick": [
+      "com.shopkick.sdk.api.|com.shopkick.fetchers."
+    ],
+    "Alphonso": [
+      "tv.alphonso.service"
+    ],
+    "Smaato": [
+      "com.smaato."
+    ],
+    "Scandit": [
+      "com.scandit."
+    ],
+    "Inrix": [
+      "com.inrix.sdk"
+    ],
+    "Signal360": [
+      "com.signal360.sdk.core.|com.sonicnotify.sdk.core.|com.rnsignal360"
+    ],
+    "TeleQuid": [
+      "com.telequid."
+    ],
+    "Retency": [
+      "com.retency.sdk.android"
+    ],
+    "MAdvertise": [
+      "com.mngads.sdk|com.mngads.views|com.mngads."
+    ],
+    "AdColony": [
+      "com.adcolony.|com.jirbo.adcolony."
+    ],
+    "AccountKit": [
+      "com.facebook.accountkit"
+    ],
+    "Amazon Advertisement": [
+      "com.amazon.device.ads"
+    ],
+    "Amazon Mobile Associates": [
+      "com.amazon.device.associates"
+    ],
+    "Radius Networks": [
+      "com.radiusnetworks"
+    ],
+    "Amazon Analytics (Amazon insights)": [
+      "com.amazon.insights|com.amazonaws.mobileconnectors.pinpoint.analytics.|com.amazonaws.mobileconnectors.amazonmobileanalytics"
+    ],
+    "Baidu APPX": [
+      "com.baidu.appx"
+    ],
+    "Baidu Location": [
+      "com.baidu.location"
+    ],
+    "Baidu Map": [
+      "com.baidu.mapapi"
+    ],
+    "Baidu Mobile Ads": [
+      "com.baidu.mobads"
+    ],
+    "Baidu Mobile Stat": [
+      "com.baidu.mobstat"
+    ],
+    "Estimote": [
+      "com.estimote."
+    ],
+    "Baidu Navigation": [
+      "com.baidu.navi"
+    ],
+    "Fyber": [
+      "com.fyber."
+    ],
+    "Google Tag Manager": [
+      "com.google.tagmanager|com.google.android.gms.tagmanager"
+    ],
+    "Inmobi": [
+      "com.inmobi|in.inmobi."
+    ],
+    "Millennial Media": [
+      "com.millennialmedia."
+    ],
+    "Snowplow": [
+      "com.snowplowanalytics."
+    ],
+    "Fyber SponsorPay": [
+      "com.sponsorpay"
+    ],
+    "Supersonic Ads": [
+      "com.supersonic.adapters.supersonicads|com.supersonicads.sdk"
+    ],
+    "Carnival": [
+      "com.carnival.sdk|com.carnivalmobile"
+    ],
+    "Tencent Map LBS": [
+      "com.tencent.lbs"
+    ],
+    "Tencent MobWin": [
+      "com.tencent.mobwin"
+    ],
+    "Tencent MTA": [
+      "com.tencent.mta"
+    ],
+    "Apptentive": [
+      "com.apptentive."
+    ],
+    "Tencent Stats": [
+      "com.tencent.stat|com.tencent.wxop.stat"
+    ],
+    "Tencent Weiyun": [
+      "com.tencent.weiyun"
+    ],
+    "MixPanel": [
+      "com.mixpanel."
+    ],
+    "Umeng Analytics": [
+      "com.umeng.analytics"
+    ],
+    "Umeng Feedback": [
+      "com.umeng.fb"
+    ],
+    "Unity3d Ads": [
+      "com.unity3d.services|com.unity3d.ads"
+    ],
+    "Countly": [
+      "ly.count.android."
+    ],
+    "Urbanairship": [
+      "com.urbanairship"
+    ],
+    "Yandex Ad": [
+      "com.yandex.mobile.ads"
+    ],
+    "Amplitude": [
+      "com.amplitude."
+    ],
+    "AppSee": [
+      "com.appsee."
+    ],
+    "Kochava": [
+      "com.kochava.base.|com.kochava.android.tracker.|.kochavaccpa."
+    ],
+    "Webtrends": [
+      "com.webtrends.mobile.analytics.|com.webtrends.mobile.android"
+    ],
+    "New Relic": [
+      "com.newrelic.agent.|com.newrelic.mobile."
+    ],
+    "AppAnalytics": [
+      "io.appanalytics.sdk"
+    ],
+    "Applause": [
+      "com.applause.android."
+    ],
+    "Quantcast": [
+      "com.quantcast.measurement.service."
+    ],
+    "Apptimize": [
+      "com.apptimize."
+    ],
+    "AppBrain": [
+      "com.appbrain."
+    ],
+    "Dynatrace": [
+      "com.dynatrace.android.app|com.dynatrace.agent|com.dynatrace.tools"
+    ],
+    "Matomo (Piwik)": [
+      "org.piwik|org.piwik.mobile|org.matomo"
+    ],
+    "AppMetrica": [
+      "com.yandex.metrica."
+    ],
+    "Singlespot": [
+      "com.sptproximitykit."
+    ],
+    "Sensoro": [
+      "com.sensoro.beacon.kit.|com.sensoro.cloud"
+    ],
+    "Sense360": [
+      "com.sense360.android."
+    ],
+    "Rubicon Project": [
+      "com.rfm.sdk"
+    ],
+    "ironSource": [
+      "com.ironsource."
+    ],
+    "Heyzap (bought by Fyber)": [
+      "com.heyzap.sdk.ads.|com.heyzap.mediation."
+    ],
+    "SAP CDC (Gigya)": [
+      "com.gigya."
+    ],
+    "Foresee": [
+      "com.foresee.sdk.ForeSee"
+    ],
+    "Fiksu": [
+      "com.fiksu.asotracking"
+    ],
+    "Ensighten": [
+      "com.ensighten."
+    ],
+    "Dynamic Yield": [
+      "com.dynamicyield."
+    ],
+    "BlueKai (acquired by Oracle)": [
+      "com.bluekai.sdk."
+    ],
+    "BlueConic": [
+      "com.blueconic"
+    ],
+    "Apteligent by VMWare (formerly Crittercism)": [
+      "com.crittercism.app.Crittercism"
+    ],
+    "AdFit (Daum)": [
+      "com.kakao.adfit."
+    ],
+    "Adform": [
+      "com.adform.sdk."
+    ],
+    "Adfurikun": [
+      "jp.tjkapp.adfurikunsdk.|com.glossomads.sdk."
+    ],
+    "Mobvista": [
+      "com.mobvista."
+    ],
+    "Placed": [
+      "com.placed.client"
+    ],
+    "Adot": [
+      "com.adotmob"
+    ],
+    "Appodeal": [
+      "com.appodeal.ads.|com.appodealx."
+    ],
+    "AppMonet": [
+      "com.monet."
+    ],
+    "Soomla": [
+      "com.soomla."
+    ],
+    "Adincube": [
+      "com.adincube.sdk."
+    ],
+    "Persona.ly": [
+      "ly.persona.sdk"
+    ],
+    "Branch": [
+      "io.branch."
+    ],
+    "Cheetah Ads": [
+      "com.cmcm."
+    ],
+    "Vungle": [
+      "com.vungle.publisher.|com.vungle.warren."
+    ],
+    "Criteo": [
+      "com.criteo."
+    ],
+    "Mapbox": [
+      "com.mapbox.mapboxsdk.module.telemetry|com.mapbox.mapboxsdk.maps.TelemetryDefinition|com.mapbox.android.telemetry."
+    ],
+    "Optimizely": [
+      "com.optimizely."
+    ],
+    "Taboola": [
+      "com.taboola."
+    ],
+    "CleverTap": [
+      "com.clevertap."
+    ],
+    "myTracker": [
+      "com.my.tracker."
+    ],
+    "Cloudmobi": [
+      "com.cloudtech."
+    ],
+    "ADLIB": [
+      "com.mocoplex.adlib."
+    ],
+    "Brightcove": [
+      "com.brightcove"
+    ],
+    "DOV-E": [
+      "com.dv.DVSDK"
+    ],
+    "InMarket": [
+      "com.inmarket"
+    ],
+    "Pilgrim by Foursquare": [
+      "com.foursquare.pilgrim|com.foursquare.pilgrimsdk.android"
+    ],
+    "OtherLevels": [
+      "com.otherlevels."
+    ],
+    "PubNative": [
+      "net.pubnative"
+    ],
+    "Appnext": [
+      "com.appnext.sdk"
+    ],
+    "MobFox": [
+      "com.mobfox.|com.adsdk.sdk."
+    ],
+    "ShallWeAD": [
+      "com.jm.co.shallwead.sdk.|com.co.shallwead.sdk."
+    ],
+    "deltaDNA": [
+      "com.deltadna"
+    ],
+    "Display": [
+      "io.display."
+    ],
+    "HyprMX": [
+      "com.hyprmx.android.sdk."
+    ],
+    "Bugly": [
+      "com.tencent.bugly."
+    ],
+    "Duapps": [
+      "com.duapps."
+    ],
+    "Swrve": [
+      "com.swrve.sdk"
+    ],
+    "OneSignal": [
+      "com.onesignal."
+    ],
+    "Appdynamics": [
+      "com.appdynamics."
+    ],
+    "Startapp": [
+      "com.startapp."
+    ],
+    "AerServ": [
+      "com.aerserv.sdk."
+    ],
+    "INFOnline": [
+      "de.infonline."
+    ],
+    "myTarget": [
+      "com.my.target."
+    ],
+    "Tapjoy": [
+      "com.tapjoy."
+    ],
+    "Mintegral": [
+      "com.mintegral.|com.mbridge.msdk."
+    ],
+    "Gimbal": [
+      "com.gimbal.android"
+    ],
+    "Conviva": [
+      "com.conviva."
+    ],
+    "Auditude": [
+      "com.auditude.ads"
+    ],
+    "Instreamatic (Adman)": [
+      "com.instreamatic"
+    ],
+    "GameAnalytics": [
+      "com.gameanalytics.sdk"
+    ],
+    "Instabug": [
+      "com.instabug."
+    ],
+    "Bugsnag": [
+      "com.bugsnag."
+    ],
+    "Moodmedia": [
+      "com.moodmedia"
+    ],
+    "Houndify": [
+      "com.hound"
+    ],
+    "OpenX": [
+      "com.openx.view.plugplay|com.openx.android_sdk_openx"
+    ],
+    "Taplytics": [
+      "com.taplytics.sdk"
+    ],
+    "Yinzcam Sobek": [
+      "com.yinzcam.sobek"
+    ],
+    "Ooyala": [
+      "com.ooyala"
+    ],
+    "Kiip": [
+      "me.kiip.sdk"
+    ],
+    "MobPower": [
+      "com.mobpower."
+    ],
+    "AdBuddiz": [
+      "com.purplebrain.adbuddiz.sdk."
+    ],
+    "Integral Ad Science": [
+      "com.integralads.avid.library"
+    ],
+    "AltBeacon": [
+      "org.altbeacon.beacon.|com.altbeacon.beacon.|org.altbeacon.bluetooth."
+    ],
+    "Salesforce Marketing Cloud": [
+      "com.salesforce.marketingcloud"
+    ],
+    "Mozilla Telemetry": [
+      "org.mozilla.telemetry|org.mozilla.gecko.telemetry|mozilla.telemetry.glean.|org.mozilla.fenix.GleanMetrics|org.mozilla.fenix.components.metrics"
+    ],
+    "nend": [
+      "net.nend.android|net.nend.unity."
+    ],
+    "Pusher": [
+      "com.pusher.client."
+    ],
+    "FreeWheel": [
+      "tv.freewheel.ad."
+    ],
+    "TNK Factory": [
+      "com.tnkfactory.ad"
+    ],
+    "Axonix": [
+      "com.axonix.android.sdk|com.mobclix.android.sdk"
+    ],
+    "Gemius HeatMap": [
+      "com.gemius.sdk"
+    ],
+    "YouAppi": [
+      "com.youappi.sdk."
+    ],
+    "Adobe Experience Cloud": [
+      "com.adobe.marketing.mobile"
+    ],
+    "Teads": [
+      "tv.teads.|teads.tv."
+    ],
+    "In Loco": [
+      "com.inlocomedia.android"
+    ],
+    "IQzone": [
+      "com.iqzone"
+    ],
+    "Bugfender": [
+      "com.bugfender.sdk."
+    ],
+    "Wootric": [
+      "com.wootric.androidsdk."
+    ],
+    "KIDOZ": [
+      "com.kidoz.sdk"
+    ],
+    "PubMatic": [
+      "com.pubmatic.sdk"
+    ],
+    "Kissmetrics": [
+      "com.kissmetrics"
+    ],
+    "Microsoft Visual Studio App Center Crashes": [
+      "com.microsoft.appcenter.crashes"
+    ],
+    "Webtrekk": [
+      "com.webtrekk.webtrekksdk"
+    ],
+    "Google Analytics Plugin (Cordova)": [
+      "com.danielcwilson.plugins.analytics"
+    ],
+    "Bugsee": [
+      "com.bugsee.library.Bugsee"
+    ],
+    "Splunk MINT": [
+      "com.splunk.mint"
+    ],
+    "Microsoft Visual Studio App Center Analytics": [
+      "com.microsoft.appcenter.analytics|com.microsoft.azure.mobile.analytics"
+    ],
+    "Nielsen": [
+      "com.nielsen.app"
+    ],
+    "Reveal Mobile": [
+      "com.stepleaderdigital.reveal"
+    ],
+    "Metrics": [
+      "com.codahale.metrics"
+    ],
+    "Repro": [
+      "io.repro.android."
+    ],
+    "Sensors Analytics": [
+      "com.sensorsdata.analytics.android.sdk"
+    ],
+    "Tenjin": [
+      "com.tenjin.android."
+    ],
+    "Tapstream": [
+      "com.tapstream.sdk"
+    ],
+    "Singular": [
+      "com.singular.sdk"
+    ],
+    "CallDorado": [
+      "com.calldorado.android"
+    ],
+    "UXCam": [
+      "com.uxcam."
+    ],
+    "Upsight": [
+      "com.upsight.android"
+    ],
+    "Appcelerator Analytics": [
+      "com.appcelerator.aps.|org.appcelerator.titanium.analytics"
+    ],
+    "Adbrix": [
+      "com.igaworks.adbrix"
+    ],
+    "Cauly": [
+      "com.fsn.cauly|com.trid.tridad|com.cauly.android.ad."
+    ],
+    "Tapdaq": [
+      "com.tapdaq.sdk.|com.tapdaq.adapters."
+    ],
+    "Verve": [
+      "com.vervewireless.advert."
+    ],
+    "Apsalar": [
+      "com.apsalar.sdk."
+    ],
+    "PingStart": [
+      "com.pingstart.adsdk."
+    ],
+    "Keen": [
+      "io.keen.client."
+    ],
+    "Revmob": [
+      "com.revmob.ads."
+    ],
+    "Emarsys Predict": [
+      "com.emarsys.predict"
+    ],
+    "Lotame": [
+      "com.lotame.android"
+    ],
+    "FollowAnalytics": [
+      "com.followanalytics."
+    ],
+    "Chartbeat": [
+      "com.chartbeat.androidsdk"
+    ],
+    "MoEngage": [
+      "com.moengage."
+    ],
+    "Altamob": [
+      "com.altamob.sdk"
+    ],
+    "Tealeaf": [
+      "com.tl.uic.Tealeaf"
+    ],
+    "AMoAd": [
+      "com.amoad."
+    ],
+    "AdAdapted": [
+      "com.adadapted.android.sdk."
+    ],
+    "AdMuing": [
+      "com.admuing.danmaku."
+    ],
+    "Adcash": [
+      "com.adcash.mobileads."
+    ],
+    "Admixer": [
+      "com.admixer|net.admixer.sdk"
+    ],
+    "Admost": [
+      "admost.sdk.|admost.adserver."
+    ],
+    "Alohalytics": [
+      "org.alohalytics."
+    ],
+    "Amobee": [
+      "com.amobee."
+    ],
+    "Anagog": [
+      "com.anagog.jedai"
+    ],
+    "Bazaarvoice": [
+      "com.bazaarvoice.bvandroidsdk"
+    ],
+    "BeaconsInSpace (Fysical)": [
+      "com.beaconsinspace.android.beacon.detector."
+    ],
+    "Conversant": [
+      "com.conversantmedia|com.greystripe.android."
+    ],
+    "Glympse": [
+      "com.glympse.android."
+    ],
+    "Herow": [
+      "com.connecthings.herow"
+    ],
+    "Placer": [
+      "com.placer.client.Placer"
+    ],
+    "PushSpring": [
+      "com.pushspring.sdk.PushSpring"
+    ],
+    "Pyze": [
+      "com.pyze."
+    ],
+    "Radar": [
+      "io.radar.sdk.Radar"
+    ],
+    "Roximity": [
+      "com.roximity.sdk."
+    ],
+    "Sentiance": [
+      "com.sentiance.sdk."
+    ],
+    "SmartLook": [
+      "com.smartlook.sdk.smartlook."
+    ],
+    "Square Metrics": [
+      "com.beaconinside.proximitysdk.ProximityService"
+    ],
+    "TalkingData": [
+      "com.talkingdata.sdk.|com.tendcloud.tenddata.|com.talkingdata.appanalytics.|com.talkingdata.adtracking.|com.tendcloud.appcpa.|com.apptalkingdata.push.|com.gametalkingdata.push."
+    ],
+    "flymob": [
+      "com.flymob.sdk."
+    ],
+    "AdFalcon": [
+      "com.noqoush.adfalcon.android.sdk"
+    ],
+    "Bitly": [
+      "com.bitly.Bitly"
+    ],
+    "Enhance": [
+      "co.enhance.Enhance"
+    ],
+    "Esri ArcGIS": [
+      "com.esri.arcgisruntime."
+    ],
+    "GIPHY Analytics": [
+      "com.giphy.sdk.analytics|com.giphy.sdk.tracking"
+    ],
+    "Heap": [
+      "com.heapanalytics"
+    ],
+    "Inneractive": [
+      "com.inneractive.api.ads"
+    ],
+    "MDOTM": [
+      "com.mdotm.android"
+    ],
+    "Metaps": [
+      "com.metaps"
+    ],
+    "Parse.ly": [
+      "com.parsely.parselyandroid"
+    ],
+    "Pollfish": [
+      "com.pollfish"
+    ],
+    "Qualtrics": [
+      "com.qualtrics.digital."
+    ],
+    "Tamoco": [
+      "com.tamoco.sdk"
+    ],
+    "Vpon": [
+      "com.vpon.ads|com.vpadn.analytics|com.vpadn.ads.|com.vpadn.widget."
+    ],
+    "YuMe": [
+      "com.yume.android"
+    ],
+    "Zapr": [
+      "com.redbricklane.zapr"
+    ],
+    "mediba": [
+      "com.mediba.jp|mediba.ad.sdk.android.openx"
+    ],
+    "Google AdMob": [
+      "com.google.ads.|com.google.android.gms.ads.AdView|com.google.android.gms.ads.AdActivity|com.google.android.gms.ads.AdRequest|com.google.android.gms.ads.mediation|com.google.android.gms.ads.doubleclick|com.google.android.ads.|com.google.unity.ads.|com.google.android.gms.admob|com.google.firebase.firebase_ads."
+    ],
+    "Unacast Pure": [
+      "com.pure.internal.|com.pure.sdk."
+    ],
+    "Factual": [
+      "com.factual.engine|com.factual.Factual"
+    ],
+    "Footmarks": [
+      "com.footmarks.footmarkssdkm2"
+    ],
+    "OzTAM": [
+      "au.com.oztam."
+    ],
+    "Receptiv (formerly Mediabrix)": [
+      "com.mediabrix.android"
+    ],
+    "Tutela": [
+      "com.tutelatechnologies.sdk"
+    ],
+    "Twine Data": [
+      "com.twine.sdk"
+    ],
+    "Verizon Ads": [
+      "com.verizon.ads|com.verizondigitalmedia.mobile.|com.oath.mobile."
+    ],
+    "adPOPcorn": [
+      "com.igaworks.adpopcorn|com.igaworks.ssp."
+    ],
+    "maio by i-mobile": [
+      "jp.maio.sdk."
+    ],
+    "360Dialog": [
+      "com.threesixtydialog.sdk."
+    ],
+    "ABTasty": [
+      "com.abtasty"
+    ],
+    "ACRCloud": [
+      "com.acrcloud"
+    ],
+    "Aarki": [
+      "com.aarki"
+    ],
+    "Actv8me": [
+      "me.actv8"
+    ],
+    "IAB Open Measurement": [
+      "com.iab.omid.library|com.prime31.util.IabHelperImpl|com.prime31.IAB."
+    ],
+    "Huawei Mobile Services (HMS) Core": [
+      "com.huawei.hms.analytics|com.huawei.hms.location|com.huawei.hms.plugin.analytics|com.huawei.hms.plugin.ads|com.huawei.updatesdk.|com.huawei.agconnect.|com.huawei.hms.support.api.push.|com.huawei.hms.flutter.analytics."
+    ],
+    "Akamai MAP": [
+      "com.akamai.android.sdk.AkaMap"
+    ],
+    "Mail.ru": [
+      "ru.mail.mrgservice.advertising|ru.mail.mrgservice.analytics"
+    ],
+    "Airpush": [
+      "com.airpush."
+    ],
+    "Alimama (formerly AdsMogo)": [
+      "com.adsmogo.|com.alimama."
+    ],
+    "AnySDK": [
+      "com.anysdk.framework.AnalyticsWrapper|com.anysdk.framework.AdsWrapper"
+    ],
+    "Button": [
+      "com.usebutton.sdk."
+    ],
+    "Carto (formerly Nutiteq)": [
+      "com.nutiteq|com.carto"
+    ],
+    "Didomi": [
+      "io.didomi.sdk."
+    ],
+    "JiGuang Aurora Mobile JPush": [
+      "cn.jpush.android"
+    ],
+    "Jumio": [
+      "com.jumio.MobileSDK"
+    ],
+    "Lenddo": [
+      "com.lenddo.mobile"
+    ],
+    "POKKT": [
+      "com.pokkt.sdk."
+    ],
+    "Prebid Mobile": [
+      "org.prebid.mobile"
+    ],
+    "SK planet Tad": [
+      "com.skplanet.tad"
+    ],
+    "Split": [
+      "io.split.android."
+    ],
+    "Exponea": [
+      "com.infinario.android.infinariosdk.|com.exponea.sdk|com.sygic.aura."
+    ],
+    "IPQualityScore": [
+      "com.ipqualityscore."
+    ],
+    "Opensignal": [
+      "com.opensignal.datacollection."
+    ],
+    "SignalFrame": [
+      "com.wirelessregistry.observersdk."
+    ],
+    "X-Mode": [
+      "io.xmode.BcnConfig|io.xmode.locationsdk|io.mysdk."
+    ],
+    "OneAudience": [
+      "com.oneaudience.sdk."
+    ],
+    "OpenBack": [
+      "com.openback"
+    ],
+    "PredicIO": [
+      "com.telescope.android|io.predic.tracker"
+    ],
+    "AdLocus": [
+      "com.adlocus."
+    ],
+    "Adcenix": [
+      "com.adcenix."
+    ],
+    "Admitad": [
+      "ru.tachos.admitadstatisticsdk"
+    ],
+    "AutoNavi / Amap": [
+      "com.amap.api"
+    ],
+    "IBM Digital Analytics": [
+      "com.digitalanalytics."
+    ],
+    "Pangle": [
+      "com.bytedance|com.pgl|com.pangle.global"
+    ],
+    "YOC VIS.X": [
+      "com.yoc.visx"
+    ],
+    "Ad Generation": [
+      "com.socdm.d.adgeneration."
+    ],
+    "Adjoe": [
+      "io.adjoe.sdk.|io.adjoe.protection."
+    ],
+    "AppVador": [
+      "com.appvador.ads."
+    ],
+    "Appodeal Stack": [
+      "com.explorestack."
+    ],
+    "AppsGeyser": [
+      "com.appsgeyser.sdk|com.appsgeyser.multiTabApp.VideoPlayerActivity"
+    ],
+    "BidMachine": [
+      "io.bidmachine."
+    ],
+    "BugSense": [
+      "com.bugsense.trace."
+    ],
+    "BuzzAd Benefit": [
+      "com.buzzvil."
+    ],
+    "GOM Factory AdPie": [
+      "com.gomfactory.adpie."
+    ],
+    "JumpTap": [
+      "com.jumptap.adtag."
+    ],
+    "LoopMe": [
+      "com.loopme."
+    ],
+    "Raygun": [
+      "com.mindscapehq.android.raygun4android"
+    ],
+    "RjFun": [
+      "com.rjfun.cordova.ad|com.rjfun.cordova.admob"
+    ],
+    "SuperAwesome": [
+      "tv.superawesome.sdk|tv.superawesome.lib."
+    ],
+    "TapResearch": [
+      "com.tapr.sdk.|com.tapr.internal.|com.tapr.helpers."
+    ],
+    "Tappx": [
+      "com.tappx.sdk.android"
+    ],
+    "ThinkingData Analytics": [
+      "cn.thinkingdata."
+    ],
+    "VKontakte SDK": [
+      "com.vk.sdk.|com.vk.api.sdk."
+    ],
+    "Virgo Mobile": [
+      "com.virgo.ads."
+    ],
+    "Zoho Analytics": [
+      "com.zoho.zanalytics."
+    ],
+    "fineboost": [
+      "com.fineboost."
+    ],
+    "Acuant": [
+      "com.acuant.acuantcamera"
+    ],
+    "Anvato (A Google Company)": [
+      "com.anvato.androidsdk."
+    ],
+    "Blesh": [
+      "com.blesh.sdk."
+    ],
+    "Bluecats": [
+      "com.bluecats.sdk"
+    ],
+    "CoolaData": [
+      "com.cooladata.android."
+    ],
+    "FLUZO": [
+      "com.fluzo.sdk."
+    ],
+    "Facebook Flipper": [
+      "com.facebook.flipper"
+    ],
+    "GPShopper": [
+      "com.gpshopper"
+    ],
+    "IndoorAtlas": [
+      "com.indooratlas.android.sdk"
+    ],
+    "Janrain": [
+      "com.janrain.android|com.janrain.android.engage|com.janrain.android.capture"
+    ],
+    "MOCA": [
+      "com.innoquant.moca"
+    ],
+    "Point Inside": [
+      "com.pointinside"
+    ],
+    "Proximi.io": [
+      "io.proximi.proximiiolibrary"
+    ],
+    "ScoreLoop": [
+      "com.scoreloop.client.android"
+    ],
+    "Alooma": [
+      "com.github.aloomaio.androidsdk"
+    ],
+    "Analytics by NPAW (Youbora Suite)": [
+      "com.npaw.youbora."
+    ],
+    "Beintoo": [
+      "com.beintoo.nucleon"
+    ],
+    "Bolts": [
+      "com.parse.bolts"
+    ],
+    "Cedexis Radar": [
+      "com.cedexis"
+    ],
+    "Cifrasoft": [
+      "com.cifrasoft."
+    ],
+    "Flowsense": [
+      "com.flowsense.flowsensesdk."
+    ],
+    "Geniee": [
+      "jp.co.geniee.gnadsdk."
+    ],
+    "Huq Sourcekit": [
+      "io.huq.sourcekit."
+    ],
+    "Insider": [
+      "com.useinsider.insider"
+    ],
+    "Mopinion": [
+      "com.mopinion.mopinionsdk"
+    ],
+    "OfferToro": [
+      "com.offertoro.sdk."
+    ],
+    "OpenTelemetry (OpenCensus, OpenTracing)": [
+      "io.opencensus|io.opentelemetry"
+    ],
+    "Snapchat Login Kit": [
+      "com.snapchat.kit.sdk.SnapLogin"
+    ],
+    "Zendrive": [
+      "com.zendrive.sdk."
+    ],
+    "fullstory": [
+      "com.fullstory.instrumentation.|com.fullstory.util.|com.fullstory.jni.|com.fullstory.FS|com.fullstory.rust.|com.fullstory.FSSessionData"
+    ],
+    "Pendo": [
+      "sdk.insert.io.|sdk.pendo.io."
+    ],
+    "Plexure": [
+      "co.vmob.sdk"
+    ],
+    "Swirl": [
+      "com.swirl"
+    ],
+    "Treasure Data": [
+      "com.treasuredata"
+    ],
+    "IBM Mobile Marketing (Acoustic)": [
+      "com.ibm.mce.sdk.|co.acoustic.mobile.push.sdk.|com.xtify.mce.sdk.|com.xtify.android.sdk."
+    ],
+    "Solar2D (Corona)": [
+      "com.ansca.corona"
+    ],
+    "Amazon Mobile Analytics (Amplify)": [
+      "com.amplifyframework.analytics."
+    ],
+    "AD(X)": [
+      "com.adxcorp.ads|com.adxcorp.nativead"
+    ],
+    "AdGateMedia": [
+      "com.adgatemedia."
+    ],
+    "AdMarvel": [
+      "com.admarvel."
+    ],
+    "AdTiming": [
+      "com.aiming.mdt.|com.adtiming."
+    ],
+    "Adjust Unbotify": [
+      "com.unbotify.mobile.sdk."
+    ],
+    "LotaData": [
+      "com.lotadata.moments."
+    ],
+    "Marketo (an Adobe Company)": [
+      "com.marketo."
+    ],
+    "PlaytestCloud Event Tracking": [
+      "com.playtestcloud.Analytics"
+    ],
+    "Rollbar": [
+      "com.rollbar.android."
+    ],
+    "Snap Ad Kit": [
+      "com.snap.adkit|com.snap.appadskit"
+    ],
+    "Synerise": [
+      "com.synerise.sdk"
+    ],
+    "UserExperior": [
+      "com.userexperior"
+    ],
+    "Vdopia": [
+      "com.vdopia.client.android.|com.vdopia.ads."
+    ],
+    "AdGem": [
+      "com.adgem.android."
+    ],
+    "AdTrial": [
+      "com.adtrial.sdk."
+    ],
+    "Pincrux": [
+      "com.pincrux."
+    ],
+    "Tutucloud": [
+      "org.lasque.tusdk.core|org.lasque.tusdkpulse.core"
+    ],
+    "Veloxity": [
+      "net.veloxity."
+    ],
+    "Yoadx": [
+      "com.yoadx.yoadx."
+    ],
+    "Coulus Coelib": [
+      "coelib.c.couluslibrary"
+    ],
+    "ACRA": [
+      "org.acra.|ch.acra."
+    ],
+    "Backtrace": [
+      "com.github.backtrace-labs.|backtraceio.library."
+    ],
+    "Sentry": [
+      "io.sentry.|com.joshdholtz.sentry"
+    ],
+    "Yueying Crash SDK": [
+      "com.uc.crashsdk|com.uc2.crashsdk"
+    ]
+  },
+  "count": 428
+}
