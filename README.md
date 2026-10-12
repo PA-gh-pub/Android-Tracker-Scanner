@@ -19,7 +19,7 @@ Lo scanner si impegna sui seguenti punti, verificabili nel codice:
 
 ## Prerequisiti
 
-- Python 3.8+ (testato su **Python 3.14.8, Fedora Linux 44**)
+- Python 3.8+
 - ADB (parte dei platform-tools di Android), raggiungibile da `PATH` o nelle posizioni SDK standard su Linux, macOS e Windows (lo strumento li cerca da solo)
 - Debug USB abilitato sul telefono + autorizzazione concessa al computer
 - Android 8+ raccomandato (testato su Android 14 / SDK 34)
@@ -96,7 +96,7 @@ The scanner commits to the following, all verifiable in code:
 
 ## Prerequisites
 
-- Python 3.8+ (tested on **Python 3.14.8, Fedora Linux 44**)
+- Python 3.8+ 
 - ADB (from Android platform-tools), on `PATH` or in standard SDK locations on Linux, macOS and Windows (the tool finds it for you)
 - USB debugging enabled on the phone + computer authorized
 - Android 8+ recommended (tested on Android 14 / SDK 34)
