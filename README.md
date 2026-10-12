@@ -65,7 +65,7 @@ MIT - vedi `LICENSE`. Sei libero di usare, studiare, modificare e ridistribuire 
 
 ## Segnalazioni
 
-Apri una issue nella repository per bug o proposte di miglioramento.
+Apri una segnalazione nella repository per bug o proposte di miglioramento.
 
 
 
